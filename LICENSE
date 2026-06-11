@@ -1,0 +1,27 @@
+This is a custom non-commercial educational license.
+
+Copyright (c) 2026 "CCM" SE.
+All rights reserved.
+
+Author of the diploma implementation and classification module: Illia Parnenko.
+
+This repository is published solely for educational, examination, and diploma demonstration 
+purposes as part of a bachelor diploma project at Igor Sikorsky Kyiv Polytechnic Institute.
+
+The downloader module includes company-developed algorithms for detecting and
+extracting advertising creatives from Gemius AdReal pages. These algorithms were
+modified and used as an auxiliary component for this diploma project.
+
+The repository may be viewed, downloaded, and run solely for educational, examination, 
+and diploma demonstration purposes. Any other copying, modification, distribution, commercial use, 
+adaptation or reuse of the software, source code, or proprietary algorithms contained in this repository is prohibited.
+
+All intellectual property rights to the entire codebase, including modifications made within this project,
+remain the property of "CCM" SE, unless explicitly stated otherwise.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+ 
+This license shall be governed by the laws of Ukraine.
